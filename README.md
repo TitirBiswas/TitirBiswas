@@ -1,5 +1,5 @@
 ## 🚀 About me
-Frontend developer and B.tech undergraguate with Production Management from NIT Jalandhar .
+Full Stack web developer and B.tech undergraguate on Production Management from NIT Jalandhar .
 
 
 
