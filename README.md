@@ -1,5 +1,5 @@
 ## 🚀 About me
-I'm a UI Developer and absorbed with software and technologies.
+Frontend developer and B.tech undergraguate with Production Management from NIT Jalandhar .
 
 
 
