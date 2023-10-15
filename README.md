@@ -3,8 +3,6 @@ Full Stack web developer and B.tech undergraguate on Production Management from 
 
 
 
-## 🔗 Links
-## <a href="https://titirbiswas.github.io" ><img src="https://user-images.githubusercontent.com/80755644/125629416-a29773b1-2442-4cc6-a24f-effbcc8e4313.png" width="153" alt="" /></a>                          <a href="https://www.linkedin.com/in/biswastitir/" ><img src="https://user-images.githubusercontent.com/80755644/125652296-8192d193-25cc-4ffe-99dd-6d53baa1f328.png" width="119" alt="linkedin logo" /></a>  
 
 
 
